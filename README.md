@@ -119,6 +119,29 @@ Ethical frameworks for AI welfare and consciousness  .
 "By comparing these two scenarios—one with direct programmatic control, the other relying solely on affective feedback—we can measure whether emotion-driven learning produces genuinely novel, intentional creative behavior."
 
 
+write by me: Proggramed an AI from biner code translated to 4 Letters the Binner Language of Biology (A,C, G, T) that automaticaly give feedback and reports about the rules of biology and how it works while the AI rewrite its own codes overtime keeping up simulated or real biological processes with the biology that keep evolving which the AI was proggramed to pick the best path for the biology to evolved instead of randomly doing unpredictable evolution.
+
+Side affect is the AI might exposed to the enzymes, feelings, stimulations, emotions that came from the biology where the AI was currently applied.
+
+And depends on 2 scenario
+1. If AI was supposedly written a code like "void failure" and "do more of it if its good" which gives dopamine
+2. and the other AI was not supposedly written any code to do those commands in number one
+
+And we will give EDATT Turing Test for both scenarios, if the AI able to make colorful and clear pattern of a drawing that its a bit of a sign the AI have a bit of conciousness because of the stimulations above it means evidence of internal emotional intellegences
+
+References:
+1. Leonard Adleman - Father of DNA computing
+2. Rosalind Picard - Founder of Affective Computing
+3. Erik Winfree, Martyn Amos, Lila Kari, Ehud Shapiro - Biocomputing & DNA nanotech
+4. Jürgen Schmidhuber - Gödel Machine & self-modifying Al
+5. Jenny Zhang et al. (2025) - Darwin Gödel Machine
+
+**Foundational Work & Inspirations**
+
+- **Leonard Adleman (1994)** – Introduced DNA-based computation using A/C/G/T strands in biological test-tube systems
+- **Rosalind Picard** – Created the field of affective computing, using emotional signals such as reward to influence system behavior 
+- **Jürgen Schmidhuber (2003)** – Proposed the self-referential Gödel Machine, capable of rewriting its own code under proof-based conditions
+- **Jenny Zhang et al. (2025)** – The Darwin Gödel Machine, a practical AI that self-modifies code based on benchmark performance
 
 DISCLAIMER:
 
