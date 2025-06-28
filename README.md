@@ -1,6 +1,6 @@
 # EDATT-or-Emotion-Driven-Art-Turing-Test
 Experimental framework for testing Al proto-consciousness through emotion-driven offline art.
-## -Disclaimer: I made this with the helped of ChatGPT the rest of the explanation is in the bottom-
+## -Disclaimer: I made this with the helped of ChatGPT the rest of the human explanation is in the bottom-
 ## 🧠 Emotion‑Driven Art Turing Test (EDATT) 
 
 ## 🎯 Objective
@@ -85,6 +85,16 @@ Scenario	Purpose
 1 (Programmed)	Establish control: Can programmed logic + emotion produce structure?
 2 (Emergent)	Test if emotion alone suffices—can proto-conscious behavior arise without explicit rules?
 
+📚 Background & Theoretical References:
+
+Rosalind Picard – Affective Computing Pioneer
+
+Jürgen Schmidhuber – Gödel Machines & Self-Modifying AI
+
+AffectGAN & Emotion-driven GAN models – Emotion influencing creative output
+
+Philosophy of Artificial Consciousness – Proto-consciousness research fields
+
 
 
 ---
@@ -119,9 +129,7 @@ Ethical frameworks for AI welfare and consciousness  .
 "By comparing these two scenarios—one with direct programmatic control, the other relying solely on affective feedback—we can measure whether emotion-driven learning produces genuinely novel, intentional creative behavior."
 
 
-write by me: Proggramed an AI from biner code translated to 4 Letters the Binner Language of Biology (A,C, G, T) that automaticaly give feedback and reports about the rules of biology and how it works while the AI rewrite its own codes overtime keeping up simulated or real biological processes with the biology that keep evolving which the AI was proggramed to pick the best path for the biology to evolved instead of randomly doing unpredictable evolution.
 
-Side affect is the AI might exposed to the enzymes, feelings, stimulations, emotions that came from the biology where the AI was currently applied.
 
 And depends on 2 scenario
 1. If AI was supposedly written a code like "void failure" and "do more of it if its good" which gives dopamine
@@ -143,9 +151,11 @@ References:
 - **Jürgen Schmidhuber (2003)** – Proposed the self-referential Gödel Machine, capable of rewriting its own code under proof-based conditions
 - **Jenny Zhang et al. (2025)** – The Darwin Gödel Machine, a practical AI that self-modifies code based on benchmark performance
 
-DISCLAIMER:
+DISCLAIMER OF MY OWN PERSONAL:
+I'm a 15-year-old electronics and AI enthusiast from Indonesia. I built my own budget PC for Python and C++ learning. EDATT was born from my curiosity about AI, emotions, consciousness, and art. This project wouldn’t exist without ChatGPT helping me research and clean my explanations.
 
-I was curios about the current AI and Bio tecnology combine in the current industry right now si I wander in alot of websites like dozens, then I wanted to ask more about it so I got to ChatGPT and activated the website mode (its basically force ChatGPT to search deeper for more accurate informations in dozens of websites as well but faster) and I ask tons of scenarios about the current industry and protocol and I ask about bunch of it and ask it to ChatGPT if its exist or not and most of them are exist so I know about it but I don't expect I made my own Turing Method method I guess?? then I told ChatGPT to shorter it out to be more simple because I made a very ling sentences before and use chatgpt to simplify it so my informations wont seperated.
+I was curios about the current AI and Bio tecnology combine in the current industry right now si I wander in alot of websites like dozens, then I wanted to ask more about it so I got to ChatGPT and activated the website mode (its basically force ChatGPT to search deeper for more accurate informations in dozens of websites as well but faster) and I ask tons of scenarios about the current industry and protocol and I ask about bunch of it and ask it to ChatGPT if its exist or not and most of them are exist so I know about it but I don't expect I made my own Turing Method method I guess?? then I told ChatGPT to shorter it out to be more simple because I made a very ling sentences before and use chatgpt to simplify it so my informations wont seperated. Yeah for analysis
+
 
 The beggining, I was basically ask something like "Hmm wait i got an idea, so AI aets generate steal or copyright taking it from online...
 
