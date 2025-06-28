@@ -62,7 +62,11 @@ Does its creative output show evidence of novelty due to emotional learning alon
 
 
 
-
+> "Note on Core Immutability:
+Both scenarios use a small immutable core for emotional simulation, safety, and output functions.
+Scenario 1 contains hard-coded avoidance rules.
+Scenario 2 relies entirely on emergent behavior with no predefined avoidance logic."
+> also first layer basically immutablecore while the secondone are self generate code/programs by the AI itself
 
 ---
 
